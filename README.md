@@ -1,6 +1,7 @@
 # My Portfolio Website
 
 This is my personal portfolio website built using **Vite.js**, **TypeScript**, and **Three.js**. It showcases my projects, skills, and experience with interactive 3D animations and models.
+View it here live: https://prajwal-patil-inc.github.io/Portfolio_Website_2/
 
 ## Features
 
